@@ -1,6 +1,6 @@
 # 📺 YouTube Title & Description Auto Generator (with Google Sheets & Email Integration) using n8n
 
-![n8n Workflow](./Screenshot%202025-07-24%20at%2010.04.31%20AM.png)
+<img width="1172" height="493" alt="Screenshot 2025-07-24 at 10 04 31 AM" src="https://github.com/user-attachments/assets/b291e088-f51d-4cdd-b702-b0b4b33a0ad2" />
 
 ## 🔧 Overview
 
