@@ -77,7 +77,7 @@ Body:
 
 You can see the entire n8n visual workflow below:
 
-![n8n Workflow Screenshot](./Screenshot%202025-07-24%20at%2010.04.31%20AM.png)
+<img width="1172" height="493" alt="Screenshot 2025-07-24 at 10 04 31 AM" src="https://github.com/user-attachments/assets/0e99f6f5-d782-4f86-ba72-4d1d677043bd" />
 
 ---
 
